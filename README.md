@@ -36,7 +36,7 @@ sessions, examens, tentatives et rôles des utilisateurs.
 
 ## Database Model
 
-![Entity-Relationship Model](diagrams/MCD-Vertabelo.png)
+![Entity-Relationship Model](database-project/diagrams/MCD-Vertabelo.png)
 
 ## Compétences démontrées
 
